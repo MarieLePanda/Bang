@@ -1,0 +1,7 @@
+Shérif;Fait régner la loi;color;symbol;0;Shérif;2
+Hors-la-loi;Bandit dangereux recherché;color;symbol;0;Hors-la-loi;0
+Hors-la-loi;Bandit dangereux recherché;color;symbol;0;Hors-la-loi;0
+Adjoint;Aide le shérif à faire respecter la loi;color;symbol;0;Adjoint;0
+Renegat;Bandit très dangereux;color;symbol;0;Renegat;0
+Hors-la-loi;Bandit dangereux recherché;color;symbol;0;Hors-la-loi;0
+Adjoint;Aide le shérif à faire respecter la loi;Aide le shérif à faire respecter la loi;color;symbol;0;Adjoint;0
