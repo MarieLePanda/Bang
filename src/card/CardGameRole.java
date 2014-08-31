@@ -10,9 +10,9 @@ package card;
  *
  * @author MKSJ
  */
-public class CardGameRole extends Card{
+public class CardGameRole{
     
-    private String role;
+    private String name, description, role;
     private int healthPointBonus;
 
     public String getRole() {
@@ -31,13 +31,10 @@ public class CardGameRole extends Card{
         this.healthPointBonus = healthPointBonus;
     }
     
-    public CardGameRole(String name, String description, String color, String symbol, int number, String role, int healthPointBonus){
+    public CardGameRole(String name, String description, String role, int healthPointBonus){
         
         this.name = name;
         this.description = description;
-        this.color = color;
-        this.symbol = symbol;
-        this.number = number;
         this.role = role;
         this.healthPointBonus = healthPointBonus;
     }
@@ -45,10 +42,12 @@ public class CardGameRole extends Card{
     public CardGameRole(String[] split) {
         this.name = split[0];
         this.description = split[1];
-        this.color = split[2];
-        this.symbol = split[3];
-        this.number = Integer.getInteger(split[4]);
-        this.role = split[5];
-        this.healthPointBonus = Integer.getInteger(split[6]);
+        this.role = split[2];
+        this.healthPointBonus = Integer.parseInt(split[3]);
+    }
+    
+    @Override
+    public String toString(){
+        return name;
     }
 }

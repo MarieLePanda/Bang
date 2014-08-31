@@ -1,0 +1,16 @@
+Paul Regret;Tous les autres le voint à une distance augmentée de 1;3
+Slab Le Flingueur; Il faut 2 cartes Raté ! por annuler ses cartes BANG !;4
+El Gringo;Chaque fois qu'il est touché par un joueur, il prend une carte dans la main de celui-ci;3
+Rose Doolan;Voit tous les autres joueurs à une distance réduite de 1;4
+Kit Carlson;Regarde les 3 premières cartes de la pioche et choisit les 2 qu'il garde;4
+Calamity Janet;Peut jouer des cartes BANG ! à la place des Raté ! et vice-versa;4
+Pedro Ramirez;Peut piocher sa première carte dans la defausse;4
+Suzy Lafayette;Dès qu'elle n'a plus aucune carte en main, elle tire une carte;4
+Black Jack;Dévoile la deuxième carte qu'il tire. Si c'est un Coeur ou un Carreau, il tire une carte supllémentaire;4
+Sid Ketchum;peut défausser 2 cartes pour regagner 1 point de vie;4
+Sam Le Vautour;Dès qu'un joueur est éliminé, il prend les cartes qu'il avait en main et en jeu;4
+Bart Cassidy;Tire 1 carte chaque fois qu'il est touché;4
+Jesse Jones;Peut tirer sa première carte de la main d'un joueur;4
+Jourdonnais;Dès qu'il est la cible d'un BANG !, il peut "dégainer" : si c'est un Coeur, il n'est pas touché;4
+Willy Le Kid;Peut jouer autant de cartes BANG ! qu'il le désire;4
+Lucky Duke;Chaque fois qu'il "dégaine", il retourne les 2 premières cartes de la pioche et choisit celle qu'il préfère;4

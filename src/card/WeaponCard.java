@@ -8,29 +8,41 @@ package card;
 
 /**
  *
- * @author MKSJ
+ * @author Lucas
  */
-public class ActionCard extends Card{
+public class WeaponCard extends Card{
     
-    public ActionCard(String name, String description, String color, String symbol, int number){
+    private int range;
+
+    public int getRange() {
+        return range;
+    }
+
+    public void setRange(int range) {
+        this.range = range;
+    }
+    
+    
+    public WeaponCard(String name, String description, String color, String symbol, int number, int range){
         this.name = name;
         this.description = description;
         this.color = color;
         this.symbol = symbol;
         this.number = number;
-    }
+        this.range = range;
+    } 
     
-    public ActionCard(String[] split){
+    public WeaponCard(String[] split){
         this.name = split[0];
         this.description = split[1];
         this.color = split[2];
         this.symbol = split[3];
         this.number = Integer.parseInt(split[4]);
+        this.range = Integer.parseInt(split[5]);
     }
     
     @Override
     public String toString(){
         return name;
     }
-
 }

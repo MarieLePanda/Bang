@@ -17,6 +17,7 @@ public class Bang {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        ihm.Field.initField();
     }
     
 }

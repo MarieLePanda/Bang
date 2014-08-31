@@ -3,18 +3,8 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/MKSJ/Documents/GitHub/Usi/Bang/src/card/action/BangCard.java</file>
-            <file>file:/C:/Users/MKSJ/Documents/GitHub/Usi/Bang/src/ihm/Field.java</file>
-            <file>file:/C:/Users/MKSJ/Documents/GitHub/Usi/Bang/src/card/action/MissCard.java</file>
-            <file>file:/C:/Users/MKSJ/Documents/GitHub/Usi/Bang/src/ihm/InitGame.java</file>
-            <file>file:/C:/Users/MKSJ/Documents/GitHub/Usi/Bang/src/card/ActionCard.java</file>
-            <file>file:/C:/Users/MKSJ/Documents/GitHub/Usi/Bang/src/card/Card.java</file>
-            <file>file:/C:/Users/MKSJ/Documents/GitHub/Usi/Bang/src/player/Player.java</file>
-            <file>file:/C:/Users/MKSJ/Documents/GitHub/Usi/Bang/src/deck/deckCardGameRole.txt</file>
-            <file>file:/C:/Users/MKSJ/Documents/GitHub/Usi/Bang/src/card/CardGameRole.java</file>
-            <file>file:/C:/Users/MKSJ/Documents/GitHub/Usi/Bang/src/card/Deck.java</file>
-            <file>file:/C:/Users/MKSJ/Documents/GitHub/Usi/Bang/src/bang/Bang.java</file>
-            <file>file:/C:/Users/MKSJ/Documents/GitHub/Usi/Bang/src/deck/deckCardAction</file>
+            <file>file:/C:/Developpement/Workspace/Java/Bang/src/ihm/Field.java</file>
+            <file>file:/C:/Developpement/Workspace/Java/Bang/src/card/CardGameRole.java</file>
         </group>
     </open-files>
 </project-private>

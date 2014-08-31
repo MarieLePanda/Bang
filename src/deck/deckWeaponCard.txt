@@ -1,0 +1,8 @@
+Schofield; ;noir;trèfle;11;2
+Schofield; ;noir;trèfle;12;2
+Schofield; ;noir;pique;13;2
+Volcanic;Vous pouvez jouer autant de BANG ! que vous voulez;noir;pique;10;1
+Volcanic;Vous pouvez jouer autant de BANG ! que vous voulez;noir;trèfle;10;1
+Remington; ;noir;trèfle;13;3
+Carabine; ;noir;Trèfle;14;4
+Winchester; ;noir;pique;8;5
